@@ -1,4 +1,4 @@
-package Örnekler;
+package Odevler;
 
 import java.util.Scanner;
 
