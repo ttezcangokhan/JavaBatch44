@@ -6,9 +6,9 @@ public class Q13 {
 
     public static void main(String[] args) {
 
-    /*  Problem Tanımı
+    /*  Problem Tanimi
         Kullanicidan uc adet sayi alarak bu sayilarin
-        bir dik üçgenin kenar uzunlukları olup olmadığını hesaplatan bir kod yazınız
+        bir dik ucgenin kenar uzunluklari olup olmadığını hesaplatan bir kod yazınız
         (Yardim: Bir ucgenin dik oldugunu anlamak icin a2+b2=c2 pisagor
         baglantisindan yararlanabilirsiniz)
 

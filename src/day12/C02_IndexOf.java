@@ -25,9 +25,10 @@ public class C02_IndexOf {
 			System.out.println("Girilen kelime cumlede kullanilmamis");
 		} else if (cumle.indexOf(kelime, index+1)==(-1)){
 			
+			
 			System.out.println("Girilen kelime cumlede 1 kere kullanilmis.");
 			
-		}else {
+		}else {System.out.println(cumle.indexOf(kelime,index+1));
 			System.out.println("Girilen kelime cumlede 1’den fazla kullanilmis.");
 		}
 

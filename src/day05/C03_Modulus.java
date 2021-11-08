@@ -1,5 +1,7 @@
 package day05;
 
+import java.util.Scanner;
+
 public class C03_Modulus {
 
 	public static void main(String[] args) {

@@ -23,7 +23,7 @@ public class C01_IndexOf {
 		} else {
 			System.out.println("Girdiginiz harf verilen cumlede var");
 		}
-       scan.close();
+
 
 	}
 
